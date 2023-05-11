@@ -1,7 +1,10 @@
 ![banner](https://github.com/BharatKatyal/bharatkatyal/blob/58c46277877fa7e2885625843296d3c5f50d4930/GithubProfileBanner.jpg)
+      
+      
+      Short Intro About Me Here 
+      Add Self Updating Readme Sections
                                                                                                                                                       
-                                                                                                                                                      
-Development
+Things I code With
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -27,7 +30,29 @@ Design & Marketing
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-                                                                                                                                                      
+Connect With me
+[<img src="https://github.com/BharatKatyal/bharatkatyal/raw/a4cb05052c1749fdde352716f1a329bb0a6cfbb8/images/linkedin.png" width="25" height="25">](https://www.google.com)
+[<img src="https://github.com/BharatKatyal/bharatkatyal/blob/a4cb05052c1749fdde352716f1a329bb0a6cfbb8/images/instagram.svg" width="25" height="25">](https://www.google.com)
+
+If you have any question/feedback, please dont hestiate to reach out to me!
+
+
+Projects Im currently working on
+- Generative Design to Print App
+- Workout app for WatchOS
+
+Im currently learning
+- OpenAI 
+- Prompt Engineering 
+- 
+
+Past Experience -Showcasing being a creator, and innovator
+
+
+Cool things that went into my profile (Sources)
+<!-- <a href=”https://www.linkedin.com/in/bharatkatyal/"><img align=”left” src=”https://github.com/BharatKatyal/bharatkatyal/blob/a4cb05052c1749fdde352716f1a329bb0a6cfbb8/images/linkedin.png" alt=”Yu Shi | LinkedIn” width=”21px”/></a> -->
+
+                                                                                                                                        
                                                                                                                                                       
                                                                                                                                                       
 <!-- STAT DISPLAY WIDGETS
