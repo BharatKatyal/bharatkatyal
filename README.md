@@ -19,7 +19,7 @@
 
 ### 🚀 Past Projects
 #### Legal iQ.  Hackathon : Morgan and Morgan Reimagine the Future of Law
-- Developed "Legal iQ," an AI-driven document analysis tool for lawyers, capable of processing and summarizing case-specific information across multiple formats, while ensuring data accuracy through source citations.
+Developed "Legal iQ," an AI-driven document analysis tool for lawyers, capable of processing and summarizing case-specific information across multiple formats, while ensuring data accuracy through source citations.
 #####  Technologies 
 ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
@@ -31,7 +31,7 @@ LangChain, Pinecone Vector Database
 
 
 #### Campus Connect. Class : {User Interface and Experience} 
-- Crafted the UX/UI design of "Campus Connect," a student-centric application conceived at a hackathon, fostering greater on-campus connectivity and engagement in alignment with Valencia College's brand aesthetics.
+Crafted the UX/UI design of "Campus Connect," a student-centric application conceived at a hackathon, fostering greater on-campus connectivity and engagement in alignment with Valencia College's brand aesthetics.
 #####  Technologies 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -39,7 +39,7 @@ LangChain, Pinecone Vector Database
 
 
 #### Instant Interior Paint Quote. Class : {Open-Source Development} 
-- Designed & developed a user-friendly application to streamline the process of generating professional paint quotes. This solution emerged from a personal frustration with delays and lack of detail in contractor quotes during home renovations. My software empowers contractors to swiftly produce comprehensive, professional invoices, accelerating decision-making for homeowners and freeing up time for the contractors themselves.
+Designed & developed a user-friendly application to streamline the process of generating professional paint quotes. This solution emerged from a personal frustration with delays and lack of detail in contractor quotes during home renovations. My software empowers contractors to swiftly produce comprehensive, professional invoices, accelerating decision-making for homeowners and freeing up time for the contractors themselves.
 #####  Technologies 
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
