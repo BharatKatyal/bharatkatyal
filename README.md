@@ -3,50 +3,21 @@
   <h1 align="center" >Hi there, Im Bharat 👋</h1>
   <h2 align="center" >I'm a full-stack web developer 👨🏽‍💻 UX designer 👨🏽‍🎨</h1>
 
-</p>
+</p>                                                                                                                
 
-      Short Intro About Me Here 
-      Add Self Updating Readme Sections
-                                                                                                                                                      
-### Things I code With
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-                                                                                                                                                    
-
-
-### Database
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-                                                                                                                                                      
-### Design & Marketing 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Shopify](https://img.shields.io/static/v1?style=for-the-badge&message=Shopify&color=222222&logo=Shopify&logoColor=7AB55C&label=)
-![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
-
-
-### What im working on
+### 🔭 I’m currently working on
+<!-- Currently, I'm working on two exciting projects that showcase my skills and dedication. Firstly, I'm developing a Generative Design to Print App, leveraging cutting-edge technologies to enable users to transform their creative ideas into tangible, printable designs. Additionally, I'm building a workout app specifically designed for WatchOS, aiming to enhance fitness tracking and provide a personalized workout experience on Apple Watches. -->
 - Generative Design to Print App
 - Workout app for WatchOS
 
-### Currently Learning
+### 🌱 I’m currently learning
+<!-- I'm always eager to expand my knowledge and stay up-to-date with the latest advancements. Currently, I'm immersed in learning Swift, which enables me to develop robust and intuitive iOS applications. Moreover, I'm diving into the realm of OpenAI and prompt engineering for artificial intelligence, exploring ways to harness the power of AI in various domains. -->
+- Swift
 - OpenAI 
-- Prompt Engineering 
-- 
+- Prompt engineering for artificial intelligence
 
-### Past Projects
+
+### 🚀 Past Projects
 #### Legal iQ.  Hackathon : Morgan and Morgan Reimagine the Future of Law
 - Developed "Legal iQ," an AI-driven document analysis tool for lawyers, capable of processing and summarizing case-specific information across multiple formats, while ensuring data accuracy through source citations.
 #####  Technologies 
@@ -79,22 +50,48 @@ LangChain, Pinecone Vector Database
 
 
 
+### 💬 Ask me about 
 
-
-### 🤝 Connect with me:
+### 🤝 How to reach me::
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/bharatkatyal)
-![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)
 
 
-If you have any question/feedback, please dont hestiate to reach out to me!
+#####  Cool things that went into my profile (Sources)
+[How to Create a Beautiful README for Your GitHub Profile](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)
 
 
 
 
-Past Experience -Showcasing being a creator, and innovator
+
+<!-- 
+### Things I code With
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+                                                                                                                                                    
 
 
-Cool things that went into my profile (Sources)
+### Database
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+                                                                                                                                                      
+### Design & Marketing 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Shopify](https://img.shields.io/static/v1?style=for-the-badge&message=Shopify&color=222222&logo=Shopify&logoColor=7AB55C&label=)
+![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
+ -->
 <!-- <a href=”https://www.linkedin.com/in/bharatkatyal/"><img align=”left” src=”https://github.com/BharatKatyal/bharatkatyal/blob/a4cb05052c1749fdde352716f1a329bb0a6cfbb8/images/linkedin.png" alt=”Yu Shi | LinkedIn” width=”21px”/></a> -->
 
                                                                                                                                         
@@ -105,8 +102,7 @@ Cool things that went into my profile (Sources)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatkatyal)](https://github.com/anuraghazra/github-readme-stats) -->
 
                                                                                                                                                       
-                                                                                                                                                      
-### Hi there 👋
+
 
 <!--
 **BharatKatyal/bharatkatyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
