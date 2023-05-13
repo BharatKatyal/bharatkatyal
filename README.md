@@ -30,7 +30,7 @@ Developed "Legal iQ," an AI-driven document analysis tool for lawyers, capable o
 LangChain, Pinecone Vector Database
 
 
-#### Campus Connect. Class : {User Interface and Experience}                              - April 2023
+#### Campus Connect. (Hackathon Conception)  Class : {User Interface and Experience}                              - April 2023
 Crafted the UX/UI design of "Campus Connect," a student-centric application conceived at a hackathon, fostering greater on-campus connectivity and engagement in alignment with Valencia College's brand aesthetics.
 #####  Technologies 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
