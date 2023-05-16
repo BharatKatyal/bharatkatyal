@@ -18,6 +18,16 @@
 
 
 ### 🚀 Past Projects
+
+#### Vapor Flames.  Hackathon : SB HACKS IX - University of California Santa Barbara               - May 2023
+#####  Awarded Best Entrepreneurial Hack
+Our project involved creating a proof of concept and a Figma design for a water vapor fireplace that produces a realistic flame effect using LEDs and emits water. We utilized Arduino to power certain modules and developed a user interface design in Figma.
+#####  Technologies 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+Midjourney
+
+
 #### Legal iQ.  Hackathon : Morgan and Morgan Reimagine the Future of Law                 - April 2023
 Developed "Legal iQ," an AI-driven document analysis tool for lawyers, capable of processing and summarizing case-specific information across multiple formats, while ensuring data accuracy through source citations.
 #####  Technologies 
