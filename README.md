@@ -19,7 +19,7 @@
 
 ### 🚀 Past Projects
 
-#### Vapor Flames.  Hackathon : SB HACKS IX - University of California Santa Barbara               - May 2023
+#### Vapor Flames.  Hackathon : SB HACKS IX - University of California Santa Barbara (Hardware)               - May 2023
 #####  Awarded Best Entrepreneurial Hack
 Our project involved creating a proof of concept and a Figma design for a water vapor fireplace that produces a realistic flame effect using LEDs and emits water. We utilized Arduino to power certain modules and developed a user interface design in Figma.
 #####  Technologies 
