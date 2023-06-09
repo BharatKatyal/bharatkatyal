@@ -19,6 +19,24 @@
 
 ### 🚀 Past Projects
 
+#### AI Privacy Policy Browser Extension | LLM x Law Hackathon Stanford University               - May 2023
+Web Transparency Mockup: A browser extension that scans and summarizes privacy policies, flagging any noteworthy sections for user attention.
+#####  Technologies 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+Midjourney
+ChatGPT
+Prompt Engineering
+#### Generative AI Text to Image | Wish Craft - Craft Ventures AI Hackathon - San Fransisco              - May 2023
+Led front-end development and created visually appealing designs using Figma. Integrated a generative AI model with OpenAI for text-to-image generation, and streamlined user experience through prompt engineering using Midjourney and Replicate. Built the user interface using React and Tailwind for a clean, responsive design.
+#####  Technologies 
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+Midjourney
+
+
 #### Vapor Flames.  Hackathon : SB HACKS IX - University of California Santa Barbara (Hardware)               - May 2023
 #####  Awarded Best Entrepreneurial Hack
 Our project involved creating a proof of concept and a Figma design for a water vapor fireplace that produces a realistic flame effect using LEDs and emits water. We utilized Arduino to power certain modules and developed a user interface design in Figma.
