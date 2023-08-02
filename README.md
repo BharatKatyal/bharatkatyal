@@ -1,7 +1,9 @@
 ![banner](https://github.com/BharatKatyal/bharatkatyal/blob/58c46277877fa7e2885625843296d3c5f50d4930/GithubProfileBanner.jpg)      
 <p align="center">
   <h1 align="center" >Hi there, Im Bharat 👋</h1>
-  <h2 align="center" >I'm a full-stack web developer 👨🏽‍💻 UX designer 👨🏽‍🎨</h1>
+  
+  <h2 align="center" >Cloud Solution Architect ☁️ + Full-stack developer 👨🏽‍💻 + UX designer </h2>
+  <h3 align="center" >Deploying Pixel Perfect Cloud Apps in Rapid Time ⚡</h3>
 
 </p>                                                                                                                
 
@@ -19,13 +21,31 @@
 
 ### 🚀 Past Projects
 
+#### SnapCook |  Google Extended IO Hackathon - Orlando, Florida            - July 2023
+#####  Awarded 3rd Place Winner
+
+Led the development of a Pixel Perfect serverless Generative AI Recipe Maker, allowing users to upload an image of ingredients and instantly generate a recipe.
+Deployed using AWS Amplify, integrated Cognito for authentication, enabled image uploads to an S3 bucket, and implemented step functions for recipe generation.
+#####  Technologies 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900.svg?style=for-the-badge&logo=AWS-Amplify&logoColor=white)
+![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B.svg?style=for-the-badge&logo=Amazon-API-Gateway&logoColor=white)
+PaLM API
+
+Midjourney
+
 #### AI Privacy Policy Browser Extension | LLM x Law Hackathon Stanford University               - May 2023
 Web Transparency Mockup: A browser extension that scans and summarizes privacy policies, flagging any noteworthy sections for user attention.
 #####  Technologies 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 Midjourney
-ChatGPT
+
 Prompt Engineering
 #### Generative AI Text to Image | Wish Craft - Craft Ventures AI Hackathon - San Fransisco              - May 2023
 Led front-end development and created visually appealing designs using Figma. Integrated a generative AI model with OpenAI for text-to-image generation, and streamlined user experience through prompt engineering using Midjourney and Replicate. Built the user interface using React and Tailwind for a clean, responsive design.
