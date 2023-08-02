@@ -1,4 +1,5 @@
-![banner](https://github.com/BharatKatyal/bharatkatyal/blob/58c46277877fa7e2885625843296d3c5f50d4930/GithubProfileBanner.jpg)      
+![banner](https://github.com/BharatKatyal/bharatkatyal/blob/main/Github_bharat_Cloud.png?raw=true)      
+
 <p align="center">
   <h1 align="center" >Hi there, Im Bharat 👋</h1>
   
@@ -34,9 +35,8 @@ Deployed using AWS Amplify, integrated Cognito for authentication, enabled image
 ![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white)
 ![AWS API Gateway](https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B.svg?style=for-the-badge&logo=Amazon-API-Gateway&logoColor=white)
-PaLM API
+![PaLM API](https://raw.githubusercontent.com/BharatKatyal/bharatkatyal/f6e8764a6b3e4cbc846ba39f6987c9bf2bb8c406/images/GoogleAI.svg)
 
-Midjourney
 
 #### AI Privacy Policy Browser Extension | LLM x Law Hackathon Stanford University               - May 2023
 Web Transparency Mockup: A browser extension that scans and summarizes privacy policies, flagging any noteworthy sections for user attention.
@@ -44,9 +44,9 @@ Web Transparency Mockup: A browser extension that scans and summarizes privacy p
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-Midjourney
+![Midjourney](https://raw.githubusercontent.com/BharatKatyal/bharatkatyal/e3049657e9f30a72e3a59b6eed08d87559f0b3cb/images/Midjourney.svg)
 
-Prompt Engineering
+
 #### Generative AI Text to Image | Wish Craft - Craft Ventures AI Hackathon - San Fransisco              - May 2023
 Led front-end development and created visually appealing designs using Figma. Integrated a generative AI model with OpenAI for text-to-image generation, and streamlined user experience through prompt engineering using Midjourney and Replicate. Built the user interface using React and Tailwind for a clean, responsive design.
 #####  Technologies 
@@ -54,7 +54,8 @@ Led front-end development and created visually appealing designs using Figma. In
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-Midjourney
+![Midjourney](https://raw.githubusercontent.com/BharatKatyal/bharatkatyal/e3049657e9f30a72e3a59b6eed08d87559f0b3cb/images/Midjourney.svg)
+
 
 
 #### Vapor Flames.  Hackathon : SB HACKS IX - University of California Santa Barbara (Hardware)               - May 2023
@@ -63,7 +64,7 @@ Our project involved creating a proof of concept and a Figma design for a water 
 #####  Technologies 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-Midjourney
+
 
 
 #### Legal iQ.  Hackathon : Morgan and Morgan Reimagine the Future of Law                 - April 2023
