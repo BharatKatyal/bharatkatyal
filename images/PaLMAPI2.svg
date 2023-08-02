@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 28" width="176" height="28">
+	<title>image</title>
+	<defs>
+		<image  width="176" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALAAAAAcAQMAAAD7p6eIAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAA9JREFUeJxjYBgFo2BgAQAChAABJ2Kf4QAAAABJRU5ErkJggg=="/>
+		<image  width="21" height="18" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAASCAMAAACDzGUcAAAAAXNSR0IB2cksfwAAAmFQTFRFAAAA/7J8/2cA/24A/24C/3EL/5VM/7aA/7Pe/5HQ/4fM/4HK/6DX/////9W//4Yu/2kA/20A/2YA/4Mo/+bM/7bl/4HJ/4TL/4vM/8jj/4wz/5dr/43Y/4XL/4XK/5HM/7zhXrz/drbb5Y1K/2oA/2wP/4S+/4fQ/4fK/pDP5qPu257/zJn/VrP5JJv4CpH4AJH/GZb2aYKY3nIh/2wA/4Ca/4rT9oPQynLzvGn9vWb6w3H7zIT726T/Sav6A4z3AIv3AI33AI36AJD/F4zowXY9/2sA/4KO9oXbxmn0uWL9vGT6vWT6vGL6u2D6xHT67cj/hcj9AIj2AI73AIz4AI35AI//GIvl5XEh/3uszGf/wGD/xGL/wWL9vWP7vWX6uVz6zYn7N6T4AIr3AI74AIr4AY73EZf1AZLrAJHqAJP4a4iirHjPmHLknHThm3Thr3Puwmv7u1z7vGT6vGP6wWz6AID/AP//quPxLLK/AKCuAKKwAKG1I6KcxqMqZLFHALp2ALpxALlvFbt3otjN/wD/UL/FAJ2rAKKvAKCvEqez0KYn/6IA+aMBT7tkALpzALpwALlsEsF1wfHWkdjfAJ6tAJ+uBanAa8Oh/6QB/6MA/6AA1r9RNMybALdsALlyALVoUs+bKLK+AKCuC6e0O9He/6AA/6IA+aoSOciSALhvFb56XdGiBqa0AJ+tDKe0Ps3a/6IA/6MA/50Aqv+qPcaMALZrBrtzGr+APLrFCqazRszS/6MA/6MAN8WJHsB/gN+fuuvrQMfPktu2i9y5/6IA/6cA/71K/54B/6wc/9yL1xWIMAAAAMt0Uk5TAGP////ukw5e2P//ugEMov///8AKdP//3i6bvPX//9kiExyo/f/////bPRUFULrr8N38///////n5fLRfA6M/////////////////////8occ////////////////////8aa08/Py878/////////+DFz8/RzAIBErL+///////////eQgGv////2tn/9MT////sJUj//9wmuP/3LJf///+hkv/eJ8P7KqH/3wuk/90pwvsvA6D/7RSM5CjCL6jdCBogByzIMZf/4BZj1bDVAAABMElEQVR4nGNgYGBgZGJmYWVjZ2Dg4OTi4ubhZQADPn4BZkEhYRFRMXEucQlJBhiQEmBmFpCWkeWSk1eACyoqKasIMquqqWtoamnrQMR09fQNDI2MTZhNzcwtLK2sbWyBgnb2Do6OTs4urm7uHp5e3j6+fv4BDIFBjsGOIaGhYeERkVHRMbFx8fEJiQxJySmpaekZmZlZ2Tm5efkFhUXFJaUMDGXlDBWVVdU1tXX1DY1NzS0Mra0Q+9raOzq7unt6+/onTJw0GeqwKVOrp02fMXPW7Dlz581fsBAqumjx4iVLGZbNWr6CYeW8VavXQETXrlu/gYFh46xNmxm2bN22fQdEdOeu3UByz6xNexkYtuzbfwAievAQA1yU4fARBmQAFUUDR2f1HMMUPX7i5CkYGwDrCV6StJW/MwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 22px;fill: #ffffff;font-weight: 400;font-family: "Inter-Regular", "Inter" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<text id="PaLM API" style="transform: matrix(1,0,0,1,53,21)" >
+		<tspan x="0" y="0" class="t0">P</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0">L</tspan><tspan  y="0" class="t0">M</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">A</tspan><tspan  y="0" class="t0">P</tspan><tspan  y="0" class="t0">I
+</tspan>
+	</text>
+	<use id="Layer 2" href="#img2" x="17" y="5"/>
+</svg>
