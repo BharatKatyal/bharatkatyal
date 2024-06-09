@@ -1,4 +1,4 @@
-![banner](https://github.com/BharatKatyal/bharatkatyal/blob/main/Github_bharat_Cloud.png?raw=true)      
+![banner](./images/LinkedinCover.png?raw=true)      
 
 <p align="center">
   <h1 align="center" >Hi there, Im Bharat 👋</h1>
