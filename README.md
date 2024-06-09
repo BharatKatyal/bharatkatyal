@@ -1,4 +1,4 @@
-![banner](./images/LinkedinCover.png?raw=true)      
+![banner](./images/CoverPhoto.png?raw=true)      
 
 <p align="center">
   <h1 align="center" >Hi there, Im Bharat 👋</h1>
