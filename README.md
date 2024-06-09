@@ -1,23 +1,25 @@
 ![banner](./images/Bharat_Katyal_linkedinCover.png?raw=true)      
 
 <p align="center">
-  <h1 align="center" >Hi there, Im Bharat 👋</h1>
+  <h1 align="center" >Welcome to my Github! I'm Bharat 👋</h1>
   
-  <h2 align="center" >Cloud Solution Architect ☁️ + Full-stack developer 👨🏽‍💻 + UX designer </h2>
-  <h3 align="center" >Deploying Pixel Perfect Cloud Apps in Rapid Time ⚡</h3>
+  <h2 align="center" > A versatile and innovative software engineer with a passion for creating cutting-edge cloud solutions and driving exponential growth. </h2>
+</p>   
 
-</p>                                                                                                                
 
-### 🔭 I’m currently working on
-<!-- Currently, I'm working on two exciting projects that showcase my skills and dedication. Firstly, I'm developing a Generative Design to Print App, leveraging cutting-edge technologies to enable users to transform their creative ideas into tangible, printable designs. Additionally, I'm building a workout app specifically designed for WatchOS, aiming to enhance fitness tracking and provide a personalized workout experience on Apple Watches. -->
-- Generative Design to Print App
-- Workout app for WatchOS
+### Certifications:
+- Oracle Certified Generative AI Professional
+- AWS Certified Data Analytics
+- AWS Certified Machine Learning
+- AWS Certified Solutions Architect
+- AWS Certified Developer
+- AWS Certified Cloud Practitioner
 
-### 🌱 I’m currently learning
-<!-- I'm always eager to expand my knowledge and stay up-to-date with the latest advancements. Currently, I'm immersed in learning Swift, which enables me to develop robust and intuitive iOS applications. Moreover, I'm diving into the realm of OpenAI and prompt engineering for artificial intelligence, exploring ways to harness the power of AI in various domains. -->
-- Swift
-- OpenAI 
-- Prompt engineering for artificial intelligence
+<!--  ### 🔭 I’m currently working on  -->
+
+
+<!--  ### 🌱 I’m currently learning  -->
+
 
 
 ### 🚀 Past Projects
