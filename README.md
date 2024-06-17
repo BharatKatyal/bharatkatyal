@@ -5,18 +5,6 @@
   <h2 align="center" > A versatile and innovative software engineer with a passion for creating cutting-edge cloud solutions and driving exponential growth. </h2>
 </p>   
 
-<<<<<<< HEAD
-</p>                                                                                                    ### Certifications:
-
-AWS Certified Data Analytics
-AWS Certified Machine Learning
-AWS Certified Solutions Architect
-AWS Certified Developer
-AWS Certified Cloud Practitioner
-Oracle Certified Professional        
-=======
->>>>>>> e90fde71478e7cd3809e8fdcf40c06108bd4a1dc
-
 ### Certifications:
 - Oracle Certified Generative AI Professional
 - AWS Certified Data Analytics
