@@ -1,5 +1,4 @@
 ![banner](./images/Bharat_Katyal_linkedinCover.png?raw=true)      
-
 <p align="center">
   <h1 align="center" >Welcome to my Github! I'm Bharat 👋</h1>
   
