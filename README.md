@@ -16,11 +16,26 @@
 <!--  ### 🔭 I’m currently working on  -->
 
 
+
 <!--  ### 🌱 I’m currently learning  -->
 
 
 
 ### 🚀 Past Projects
+
+
+
+#### Sick Seats | Orlando Magic Innovation Challenge        - January 2024
+Serverless Silient seat bidding platform
+
+#### AI Waiter | Serverless Food Ordering Application | Startup Weekend Orlando            - September 2023
+Serverless Chatbot trained on resturant's Menu that helps customers preorder food
+
+#### Voice Interface  |  Penn Apps University of Pennsylvania -            - September 2023
+
+OpenAi Chatbot On AWS With ability to communicate via voice
+Deployed using AWS Amplify, integrated Cognito for authentication,S3 For Image and File uploads, DynamoDB for convesaton storage and storing keys to files and websocket api 
+
 
 #### SnapCook |  Google Extended IO Hackathon - Orlando, Florida            - July 2023
 #####  Awarded 3rd Place Winner
