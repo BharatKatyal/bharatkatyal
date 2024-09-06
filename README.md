@@ -24,6 +24,11 @@
 ### 🚀 Past Projects
 
 
+####  Kubernetes CI/CD    - August 2024
+Serverless Silient seat bidding platform
+
+#### Multi-Modal Agents      - August 2024
+Serverless Silient seat bidding platform
 
 #### Sick Seats | Orlando Magic Innovation Challenge        - January 2024
 Serverless Silient seat bidding platform
@@ -83,7 +88,7 @@ Our project involved creating a proof of concept and a Figma design for a water 
 
 
 #### Legal iQ.  Hackathon : Morgan and Morgan Reimagine the Future of Law                 - April 2023
-Developed "Legal iQ," an AI-driven document analysis tool for lawyers, capable of processing and summarizing case-specific information across multiple formats, while ensuring data accuracy through source citations.
+Developed "Legal iQ," an AI-driven document analysis tool for lawyers, capable of processing and summarizing case-specific information across multiple formats, while ensuring data accuracy through source citations. RAG
 #####  Technologies 
 ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
