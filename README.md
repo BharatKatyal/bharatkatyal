@@ -27,11 +27,13 @@
 #####  Awarded 3rd Place Winner Google Extended IO
 
 The City of Orlando has desired a gamified application to accelerate the achievement of their zero waste goal by 2040. Users can scan and upload photos to receive guidance on recycling and earn points for their efforts. The app also includes challenges and quests where users can earn points by completing specific tasks. Points earned can be redeemed for gift cards that can be used at local businesses.
-
+#####  Technologies 
+Kubernetes, EKS, ECR, Amplify,API-Gateway, Cognito,S3, DynamoDB, Lambda, Artifact Repository, RDS, CI/CD
 
 #### Multi-Modal Agents      - August 2024
 MultiModel Agent contains a centralized Flask server that processes and routes images, audio, video, and documents. It ingests and stores data into a database for customer service logs for banking.
-
+#####  Technologies
+S3, Lambda, DynamoDB, API Gateway, Docker, Elastic Beanstalk, CloudFormation.
 
 ####  Kubernetes CI/CD    - April 2024
 Designed and created a POC for GitOps Workflow with Git and Github Actions: Developed a GitOps-based CI/CD
@@ -40,21 +42,22 @@ and reliable software delivery.
 Continuous Integration and Delivery: Set up a CI/CD framework that integrates with version control systems to
 automatically build, test, and deploy applications upon code changes.
 Utilized Terraform to deploy in
-
+#####  Technologies 
+Terraform, GitHub Actions, CodeBuild, Google Kubernetes Engine (GKE), Artifact Repository
 
 #### VA AI Hotline      - March 2024
 Generative AI Hotline with AWS Connect Contact Center to add for quick call routing, sceduling and sending confirmation texts
+#####  Technologies 
+Amazon Connect, Amazon Lex, AWS Lambda, AWS Bedrock, Cloudformation
 
-#### Startup Weekend North Carolina         - Feburary 2024
-Nested Cloud Formation Template & CI/CD Pipelines for Static websites with Cache invalidation
+<!-- #### Startup Weekend North Carolina         - Feburary 2024 -->
 
 
 #### Cost Effective Dashboard and Generative AI Query Engine      - Feburary 2024
 Low Cost Performance Dashboard with Generative AI Query Engine
 Nested Cloudformation Stack, Automated ETL Processes and Serverless Generative AI Query engine 
-
-#### Startup Weekend North Carolina         - Feburary 2024
-Nested Cloud Formation Template & CI/CD Pipelines for Static websites with Cache invalidation
+#####  Technologies
+Athena, S3, Amplify, Cognito, Glue, DynamoDB, Glue, Cloudformation
 
 #### Sick Seats | Orlando Magic Innovation Challenge        - January 2024
 #####  First Place Orlando Magic Innovation Challenge Winner 
@@ -63,14 +66,20 @@ Partner with Orlando Magic executives to boost fan experience and revenue by imp
 Engineered proof of concept to optimize seating by simulating data streams into Kinesis, successfully demonstrating its business value and replicability.
 Developed data pipelines and processing using AWS Services and nested CloudFormation, enabling modular and scalable IT infrastructure adaptable to sports technology demands.
 
+#####  Technologies 
+Cloudformation, Serverless, Cognito Lambda, SES, DynamoDB, StepFunctions, Kinesis, Glue, IAM, Athena
+React Native
+
 #### AI Waiter | Serverless Food Ordering Application | Startup Weekend Orlando            - September 2023
 Serverless Chatbot trained on resturant's Menu that helps customers preorder food
+#####  Technologies 
+Cloudformation, Amplify, Lambda, DynamoDB, 
 
-#### Voice Interface  |  Penn Apps University of Pennsylvania -            - September 2023
+#### Static HTML Website S3 Quick Deploy  |  Penn Apps University of Pennsylvania -            - September 2023
 
-OpenAi Chatbot On AWS With ability to communicate via voice
-Deployed using AWS Amplify, integrated Cognito for authentication,S3 For Image and File uploads, DynamoDB for convesaton storage and storing keys to files and websocket api 
-
+Nested Cloud Formation Template & CI/CD Pipelines for Static websites with Cache invalidation
+#####  Technologies 
+Cloudformation, S3, API-Gateway, Route53, Cloudfront, Github Actions
 
 #### SnapCook |  Google Extended IO Hackathon - Orlando, Florida            - July 2023
 #####  Awarded 3rd Place Winner Google Extended IO
