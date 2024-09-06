@@ -23,15 +23,45 @@
 
 ### 🚀 Past Projects
 
+####  Gamified Recycling App    - August 2024
+#####  Awarded 3rd Place Winner Google Extended IO
 
-####  Kubernetes CI/CD    - August 2024
-Serverless Silient seat bidding platform
+The City of Orlando has desired a gamified application to accelerate the achievement of their zero waste goal by 2040. Users can scan and upload photos to receive guidance on recycling and earn points for their efforts. The app also includes challenges and quests where users can earn points by completing specific tasks. Points earned can be redeemed for gift cards that can be used at local businesses.
+
 
 #### Multi-Modal Agents      - August 2024
-Serverless Silient seat bidding platform
+MultiModel Agent contains a centralized Flask server that processes and routes images, audio, video, and documents. It ingests and stores data into a database for customer service logs for banking.
+
+
+####  Kubernetes CI/CD    - April 2024
+Designed and created a POC for GitOps Workflow with Git and Github Actions: Developed a GitOps-based CI/CD
+pipeline using Kubernetes on Google Cloud Platform (GCP) to automate the deployment process, ensuring consistent
+and reliable software delivery.
+Continuous Integration and Delivery: Set up a CI/CD framework that integrates with version control systems to
+automatically build, test, and deploy applications upon code changes.
+Utilized Terraform to deploy in
+
+
+#### VA AI Hotline      - March 2024
+Generative AI Hotline with AWS Connect Contact Center to add for quick call routing, sceduling and sending confirmation texts
+
+#### Startup Weekend North Carolina         - Feburary 2024
+Nested Cloud Formation Template & CI/CD Pipelines for Static websites with Cache invalidation
+
+
+#### Cost Effective Dashboard and Generative AI Query Engine      - Feburary 2024
+Low Cost Performance Dashboard with Generative AI Query Engine
+Nested Cloudformation Stack, Automated ETL Processes and Serverless Generative AI Query engine 
+
+#### Startup Weekend North Carolina         - Feburary 2024
+Nested Cloud Formation Template & CI/CD Pipelines for Static websites with Cache invalidation
 
 #### Sick Seats | Orlando Magic Innovation Challenge        - January 2024
-Serverless Silient seat bidding platform
+#####  First Place Orlando Magic Innovation Challenge Winner 
+Partner with Orlando Magic executives to boost fan experience and revenue by implementing a bidding system for underutilized seating. 
+
+Engineered proof of concept to optimize seating by simulating data streams into Kinesis, successfully demonstrating its business value and replicability.
+Developed data pipelines and processing using AWS Services and nested CloudFormation, enabling modular and scalable IT infrastructure adaptable to sports technology demands.
 
 #### AI Waiter | Serverless Food Ordering Application | Startup Weekend Orlando            - September 2023
 Serverless Chatbot trained on resturant's Menu that helps customers preorder food
@@ -43,7 +73,7 @@ Deployed using AWS Amplify, integrated Cognito for authentication,S3 For Image a
 
 
 #### SnapCook |  Google Extended IO Hackathon - Orlando, Florida            - July 2023
-#####  Awarded 3rd Place Winner
+#####  Awarded 3rd Place Winner Google Extended IO
 
 Led the development of a Pixel Perfect serverless Generative AI Recipe Maker, allowing users to upload an image of ingredients and instantly generate a recipe.
 Deployed using AWS Amplify, integrated Cognito for authentication, enabled image uploads to an S3 bucket, and implemented step functions for recipe generation.
